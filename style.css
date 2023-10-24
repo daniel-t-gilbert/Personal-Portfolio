@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+
+body {
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    background: #111;
+}
+
+h1 {
+    color: #fff;
+    font-size: 6em;
+    text-transform: uppercase;
+    line-height: 1;
+    font-weight: 800;
+    -webkit-box-reflect: below -14px linear-gradient(transparent 45%, white);
+    letter-spacing: -4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
